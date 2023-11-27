@@ -1,0 +1,91 @@
+.bos-turismo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.main-conteiner {
+    width: 500px;
+    height: 280px;
+    margin: 0 auto;
+}
+
+.slide {
+    position: relative;
+    height: 100%;
+}
+
+.con-imagen{
+    width: 100%;
+    height: 100%;
+    border-radius: 20px;
+    border: 1px solid #eee;
+    overflow: hidden;
+}
+
+.boton-left {
+    position: absolute;
+    top: 50%;
+    transform: translate(0-50%);
+    left: 32px;
+    font-size: 50px;
+    font-weight: 700;
+    color: #fff;
+    z-index: 1;
+    cursor: pointer;
+}
+
+.boton-rigth {
+    position: absolute;
+    top: 50%;
+    transform: translate(0-50%);
+    right: 32px;
+    font-size: 50px;
+    font-weight: 700;
+    color: #fff;
+    z-index: 1;
+    cursor: pointer;
+}
+
+.punto-imagn {
+    display: flex;
+    justify-content: center;
+}
+
+.punto-item {
+    margin: 8px 3px;
+    cursor: pointer;
+    font-size: 12px;
+    text-align: center;
+}
+
+.activo {
+    background: #ccc;
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+}
+
+.box-evento {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}
+
+.return-menu {
+    display: flex;
+    justify-content: center;
+    margin-top: 5%;
+}
+
+@media (max-width: 1080px) {
+    .box-evento {
+        display: grid;
+        justify-content: center;
+        align-items: center;
+        gap: 30px;
+    }
+    .box-evento {
+        flex-direction: column;
+    }
+}

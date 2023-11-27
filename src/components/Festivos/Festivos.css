@@ -1,0 +1,39 @@
+.header-crypto {
+    text-align: left;
+    gap: 20px;
+
+}
+
+.container-crypto {
+    padding: 10px;
+    margin: 10px;
+    color: black;
+    border: 3px solid ;
+    border-color: #AED6F1;
+    border-radius: 20px;
+    background-color:#212F3D;
+    font-family: 'Vast Shadow', serif;
+}
+
+.body-crypto {
+    text-align: left;
+}
+
+p {
+    color: #F4F6F7;
+}
+.price-crypto {
+
+    color: gold;
+    font-size: xx-large;
+}
+
+@media (max-width: 1080px) {
+    .container-crypto {
+        border: 3px solid ;
+        border-color: #5DADE2;
+        border-radius: 20px;
+        background-color:#212F3D;
+        font-family: 'Vast Shadow', serif;
+    }
+}

@@ -1,0 +1,67 @@
+import img1 from "../imagenes/ac1.jpg"
+import img2 from "../imagenes/ac2.jpg"
+import img3 from "../imagenes/ac3.jpg"
+import img4 from "../imagenes/ac4.jpg"
+import img5 from "../imagenes/r10.jpg"
+import img77 from "../imagenes/lugar.jpg"
+import img78 from "../imagenes/lugar1.jpg"
+import img79 from "../imagenes/lugar2.jpg"
+import img80 from "../imagenes/lugar3.jpg"
+import img81 from "../imagenes/lugar4.jpg"
+import img82 from "../imagenes/lugar5.jpg"
+import img83 from "../imagenes/cicla.jpg"
+import img84 from "../imagenes/cicla1.jpg"
+import img85 from "../imagenes/cicla2.jpg"
+import img86 from "../imagenes/cicla3.jpg"
+import img87 from "../imagenes/m.jpg"
+import img88 from "../imagenes/m1.jpg"
+import img89 from "../imagenes/m2.jpg"
+import img90 from "../imagenes/m3.jpg"
+import img91 from "../imagenes/plaza.jpg"
+import img92 from "../imagenes/plaza1.jpg"
+import img93 from "../imagenes/rio.jpg"
+import img94 from "../imagenes/rio1.jpg"
+import img95 from "../imagenes/rio2.jpg"
+import img96 from "../imagenes/rio3.jpg"
+import img97 from "../imagenes/rio4.jpg"
+import img98 from "../imagenes/rio5.jpg"
+import img99 from "../imagenes/rio6.jpg"
+import img100 from "../imagenes/rio7.jpg"
+import img101 from "../imagenes/lugar6.jpg"
+import img102 from "../imagenes/lugar7.jpg"
+import img103 from "../imagenes/lugar8.jpg"
+
+export default [
+    {id: 1, imgUrl: img1},
+    {id: 2, imgUrl: img2},
+    {id: 3, imgUrl: img3},
+    {id: 4, imgUrl: img4},
+    {id: 5, imgUrl: img5},
+    {id: 77, imgUrl: img77},
+    {id: 78, imgUrl: img78},
+    {id: 79, imgUrl: img79},
+    {id: 80, imgUrl: img80},
+    {id: 81, imgUrl: img81},
+    {id: 82, imgUrl: img82},
+    {id: 83, imgUrl: img83},
+    {id: 84, imgUrl: img84},
+    {id: 85, imgUrl: img85},
+    {id: 86, imgUrl: img86},
+    {id: 87, imgUrl: img87},
+    {id: 88, imgUrl: img88},
+    {id: 89, imgUrl: img89},
+    {id: 90, imgUrl: img90},
+    {id: 91, imgUrl: img91},
+    {id: 92, imgUrl: img92},
+    {id: 93, imgUrl: img93},
+    {id: 94, imgUrl: img94},
+    {id: 95, imgUrl: img95},
+    {id: 96, imgUrl: img96},
+    {id: 97, imgUrl: img97},
+    {id: 98, imgUrl: img98},
+    {id: 99, imgUrl: img99},
+    {id: 100, imgUrl: img100},
+    {id: 101, imgUrl: img101},
+    {id: 102, imgUrl: img102},
+    {id: 103, imgUrl: img103}
+];

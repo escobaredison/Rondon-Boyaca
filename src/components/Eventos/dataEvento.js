@@ -1,0 +1,53 @@
+import img9 from "../imagenes/caballos.jpg"
+import img10 from "../imagenes/caballos1.jpg"
+import img11 from "../imagenes/caballos2.jpg"
+import img12 from "../imagenes/carrosas.jpg"
+import img13 from "../imagenes/carrosas1.jpg"
+import img14 from "../imagenes/carrosas2.jpg"
+import img15 from "../imagenes/carrosas3.jpg"
+import img16 from "../imagenes/carrosas4.jpg"
+import img17 from "../imagenes/carrosas5.jpg"
+import img18 from "../imagenes/carrosas6.jpg"
+import img19 from "../imagenes/carrosas7.jpg"
+import img20 from "../imagenes/carrosas8.jpg"
+import img21 from "../imagenes/carrosas9.jpg"
+import img22 from "../imagenes/carrosas10.jpg"
+import img23 from "../imagenes/eve.jpg"
+import img24 from "../imagenes/eve1.jpg"
+import img25 from "../imagenes/eve2.jpg"
+import img26 from "../imagenes/eve3.jpg"
+import img27 from "../imagenes/eve4.jpg"
+import img39 from "../imagenes/vaca.jpg"
+import img40 from "../imagenes/vaca1.jpg"
+import img41 from "../imagenes/vaca2.jpg"
+import img42 from "../imagenes/vaca3.jpg"
+import img43 from "../imagenes/vaca4.jpg"
+import img44 from "../imagenes/vaca5.jpg"
+
+export default [
+    {id: 9, imgUrl: img9},
+    {id: 10, imgUrl: img10},
+    {id: 11, imgUrl: img11},
+    {id: 12, imgUrl: img12},
+    {id: 13, imgUrl: img13},
+    {id: 14, imgUrl: img14},
+    {id: 15, imgUrl: img15},
+    {id: 16, imgUrl: img16},
+    {id: 17, imgUrl: img17},
+    {id: 18, imgUrl: img18},
+    {id: 19, imgUrl: img19},
+    {id: 20, imgUrl: img20},
+    {id: 21, imgUrl: img21},
+    {id: 22, imgUrl: img22},
+    {id: 23, imgUrl: img23},
+    {id: 24, imgUrl: img24},
+    {id: 25, imgUrl: img25},
+    {id: 26, imgUrl: img26},
+    {id: 27, imgUrl: img27},
+    {id: 39, imgUrl: img39},
+    {id: 40, imgUrl: img40},
+    {id: 41, imgUrl: img41},
+    {id: 42, imgUrl: img42},
+    {id: 43, imgUrl: img43},
+    {id: 44, imgUrl: img44}
+];
