@@ -67,6 +67,7 @@ const Visit = () => {
                     </Link>
                 </div>
             </div>
+            <p>hola</p>
         </div>
     )
 };
