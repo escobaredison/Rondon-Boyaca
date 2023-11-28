@@ -35,7 +35,7 @@ const SemanaSanta = (props) => {
 
     return (
         <div>
-            <h1>HALLOWEEN</h1>
+            <h1>SEMANA SANTA</h1>
             <div className='main-conteiner'>
                 <div className='slide'>
                     <div className='boton-left' onClick={() => scrollToImage('prev')}>&#10092;​</div>
