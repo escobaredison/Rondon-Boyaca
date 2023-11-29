@@ -62,18 +62,25 @@ const Visit = () => {
                             ))
                         }
                     </div>
-                    <div>Historia:
-                        Fecha de fundación: 30 de junio de 1905
-                        Nombre del/el fundador (es): Ignacio Arístides Medina Ávila “Presbítero”
-                        Reseña histórica:
-                        Con el nombre de la “Galera “fue en tiempos remotos conocido el territorio selvático que vino a constituir lo que hoy forma el Municipio de “San Rafael “. Esta porción de territorio fue rematada en público subasta por don Pedro González, quien el veintidós (22) de Agosto de 1846 la vendió a Sebastián Jaime y este a Valentín Vásquez, el 26 de febrero de 1853. A la muerte de Vásquez la heredaron sus seis hijos, quienes, subdividida, la vendieron a los actuales poseedores.
-                        Hasta esta fecha hallabas este inmenso territorio cubierto de selvas vírgenes, con excepción de unas quinientas fanegadas donde Valentín Vásquez tenía su habitación prados y plantíos; y solo a su muerte comenzó la tala y destrucción de las selvas. El territorio de “San Rafael “se ha poblado en su totalidad por emigrantes de las poblaciones vecinas de Ramiriquí, Ciénega, Viracachá y pesca. En la fatal reyerta política de los tres años—- 1900, 1901, 1902, los moradores de las veredas de Gacal, Galera, Porquera y Renanica, con recuentes con sus ideas de verdaderos católicos, empuñaron las armas en defensa del gobierno.
-                        El señor Doctor Medina, el Señor Ignacio Vásquez, el Señor Quevedo, la familia Soler y otros vecinos honorables de la Galera, como los Señores Peregrino Rojas, Luis F. Vásquez, Peregrino Vargas, etc., para que el corregimiento fuera elevado a la categoría del Municipio: Levantaron documentación a la Asamblea de 1904 y la Corporación expidió la Ordenanza No. 05 del 30 de Junio de 1904.
-                    </div>
-                    <Link className='return-menu' to="/">
-                        <button className='select-buton'>MENU</button>
-                    </Link>
                 </div>
+            </div>
+            <Link className='return-menu' to="/">
+                <button className='select-buton'>MENU</button>
+            </Link>
+            <div className='parrafo'> 
+                <div className='espacio-parrafo-uno'>Geografía:</div>
+                <div className='espacio-parrafo'>Rondón tradicionalmente sigue ostentando sus linderos declarados en la ordenanza 05 de 1904 y los incorporados mediante el Decreto Eclesiástico 122 de 1920, por el cual fue creada la parroquia de San Rafael, hoy Rondón. El municipio de Rondón está dividido en 12 veredas que son: Centro, Bolívar, Sucre, Nueva Granada, Junín, Junín Vásquez, San José, San Antonio, San Isidro, Nariño, Ricaurte y San Ignacio.</div>
+                <div className='espacio-parrafo-uno'>Límites del municipio:</div>
+                <div className='espacio-parrafo'>Por el Norte : Viracachá y Siachoque</div>
+                <div className='espacio-parrafo'>Por el sur : Zetaquira y Ramiriquí</div>
+                <div className='espacio-parrafo'>Por el oriente : Pesca</div>
+                <div className='espacio-parrafo'>Por el occidente : Ramiriquí y Ciénega</div>
+                <div className='espacio-parrafo'>Extensión total: 258 Km2</div>
+                <div className='espacio-parrafo'>Extensión área urbana: 0.8 Km2</div>
+                <div className='espacio-parrafo'>Extensión área rural: 257.2 Km2</div>
+                <div className='espacio-parrafo'>Altitud de la cabecera municipal (metros sobre el nivel del mar):  2075</div>
+                <div className='espacio-parrafo'>Temperatura media:  17º C</div>
+                <div className='espacio-parrafo'>Distancia de referencia:  61 km de la capital del Departamento</div>
             </div>
         </div>
     )

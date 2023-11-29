@@ -70,7 +70,8 @@
 .return-menu {
     display: flex;
     justify-content: center;
-    margin-top: 5%;
+    margin-top: 2px;
+    margin-bottom: 5%;
 }
 
 @media (max-width: 1080px) {

@@ -40,6 +40,27 @@ h3 {
   color: #212F3C;
 }
 
+.parrafo {
+  font-family: 'BhuTuka Expanded One', serif;
+  font-size: 35px;
+  color: #212F3C;
+  font-weight: 600;
+  background-color: rgba(255,255,255,0.5);
+  margin: 60px;
+  margin-left: 10%;
+  margin-right: 10%;
+  text-align:left;
+}
+
+.espacio-parrafo-uno {
+  font-weight: 700;
+}
+
+.espacio-parrafo {
+  font-size: 20px;
+  margin-top: 2%
+}
+
 @media (max-width: 1080px) {
   .panel-principal {
     display: grid;
@@ -59,14 +80,6 @@ h3 {
 
   h1 {
     font-family: 'Shrikhand', serif;
-    justify-content: center;
-    align-items: center;
-    font-size: 60px;
-    color: #F7F9F9;
-    text-shadow:0 0 10px #24B869, 0 0 20px #24B869, 0 0 45px #24B869; 
-  }
-  h1 {
-    font-family: 'Shrikhand', serif;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -74,6 +87,7 @@ h3 {
     color: #D0D3D4;
     text-shadow:0 0 10px #24B869, 0 0 20px #24B869, 0 0 45px #24B869; 
   }
+
   .texto-Mov {
     width: 100%;
     background-color: #797D7F;

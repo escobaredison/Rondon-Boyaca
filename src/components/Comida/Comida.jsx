@@ -60,10 +60,16 @@ const Comida = () => {
                             ))
                         }
                     </div>
-                    <Link className='return-menu' to="/">
-                        <button className='select-buton'>MENU</button>
-                    </Link>
                 </div>
+            </div>
+            <Link className='return-menu' to="/">
+                <button className='select-buton'>MENU</button>
+            </Link>
+            <div className='parrafo'> 
+                <div className='espacio-parrafo-uno'>Ecología:</div>
+                <div className='espacio-parrafo'>Debido a la ubicación del Departamento de Boyacá en la región Andina y por sus características propias de topografía y altitud, le corresponde una variedad climática con las siguientes variaciones en precipitación, temperaturas y vientos, lo cual de alguna manera se refleja en la vegetación natural, expresión típica del clima de una región.</div>
+                <div className='espacio-parrafo-uno'>Economía:</div>
+                <div className='espacio-parrafo'>La producción agrícola y la ganadería son la base de la economía del municipio de Rondón, destacándose entre otros la producción de lulo, la caña de azúcar, café, plátano, naranja, yuca, arracacha, fríjol, arveja, aguacate, guayaba, chirimoya, guanábana, papa, haba, maíz, ibias, arveja, fríjol, rubas, nabos.</div>
             </div>
         </div>
     )
