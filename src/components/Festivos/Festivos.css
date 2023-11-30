@@ -15,6 +15,11 @@
     font-family: 'Vast Shadow', serif;
 }
 
+.container-crypto:hover {
+    background-color: #A04000;
+    border-color: white;
+  }
+
 .body-crypto {
     text-align: left;
 }

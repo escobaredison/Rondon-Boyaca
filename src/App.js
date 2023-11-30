@@ -63,7 +63,7 @@ function App() {
       <h1>RONDON BOYACA</h1>
       {/* <input type="text" ref={miInput}/> */}
       <div className='texto-Mov'>
-        <marquee><h3>Disfruta de un viaje👍 -----​ En un festivo😮​ ----- El cual tu puedes elejir👇</h3></marquee>
+        <marquee className='texto-mov'>Disfruta de un viaje👍 -----​ En un festivo😮​ ----- El cual tu puedes elejir👇</marquee>
       </div>
       <div className='panel-principal'>
         <div className="box-festivos">
